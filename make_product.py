@@ -6,7 +6,6 @@ import csv
 
 # Define CSV file to write Product file for upload to Webflow
 product_upload = open('product.csv', 'w')
-
     
 print("Reading and writing product data")
 
